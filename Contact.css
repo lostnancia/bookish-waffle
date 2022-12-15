@@ -1,19 +1,25 @@
  .u-section-1 {
-  background-image: url("images/living-room-pendant-light.jpg");
+  background-image: url("images/77afacd6668d45e54350873b8379bb2bd52c7b7a40d93175380d5720788bbd47dd4134f12e4fba90129c48af0658a90203eb2dbaac2797ef006c51_1280.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 570px;
 }
 
 .u-section-1 .u-form-1 {
   width: 570px;
-  margin: 52px auto 60px;
+  margin: 122px auto 60px;
 }
 
 .u-section-1 .u-form-group-4 {
   margin-left: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 500px;
+  }
 }
 
 @media (max-width: 767px) {
